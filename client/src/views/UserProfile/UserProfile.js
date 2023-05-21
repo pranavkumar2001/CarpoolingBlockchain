@@ -15,7 +15,7 @@ import Snackbar from '@material-ui/core/Snackbar';
 import Portis from '@portis/web3';
 import MuiAlert from '@material-ui/lab/Alert';
 import Web3 from 'web3';
-import avatar from "assets/img/faces/marc.jpg";
+import avatar from "assets/img/faces/marc.png";
 import { FormControl, TableBody, TableContainer, Table, TableCell, TableRow } from "@material-ui/core";
 import Paper from '@material-ui/core/Paper';
 import Loader from '../../components/Loader/Loader';

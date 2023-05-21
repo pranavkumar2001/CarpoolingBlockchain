@@ -19,7 +19,7 @@ const { SearchBox } = require("react-google-maps/lib/components/places/SearchBox
 const Maps = compose(
   withProps({
     googleMapURL:
-      "https://maps.googleapis.com/maps/api/js?key=AIzaSyAUxSCFAa8dpHXlqjdMlRRvuQm1rbUUP7A&v=3.exp&libraries=geometry,drawing,places",
+    "https://maps.googleapis.com/maps/api/js?key=AIzaSyCw8WqGD49LhEKfoGAFvot2QnsNZGvMjUg&v=3.exp&libraries=geometry,drawing,places",
     loadingElement: <div style={{ height: `100%` }} />,
     containerElement: <div style={{ height: `580px` }} />,
     mapElement: <div style={{ height: `100%` }} />

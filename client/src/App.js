@@ -78,7 +78,7 @@ class App extends Component {
                             <Admin rideManager={this.state.rideManager} web3={this.state.web3} account={this.state.account}/>
                         )}
                     />
-                    <Redirect from="/" to="/admin/dashboard" />
+                    <Redirect from="/" to="/admin/user" />
                 </Switch>
             </Router>
         );

@@ -62,8 +62,8 @@ html * {
   -moz-osx-font-smoothing: grayscale;
 }
 body {
-  background-color: #eeeeee;
-  color: #3c4858;
+  background-color: #6cf5d9;
+  color: #fcfcfc;
   margin: 0;
   font-family: Roboto, Helvetica, Arial, sans-serif;
   font-weight: 300;
@@ -112,7 +112,7 @@ h6 {
 }
 
 body {
-  background-color: #eeeeee;
+  background-color: #ffffff;
   color: #3c4858;
 }
 
