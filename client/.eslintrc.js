@@ -19,4 +19,3 @@ module.exports = {
     "plugin:prettier/recommended"
   ]
 };
-a
