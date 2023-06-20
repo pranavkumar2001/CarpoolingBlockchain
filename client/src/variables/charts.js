@@ -1,5 +1,5 @@
 // ##############################
-// // // javascript library for creating charts
+// // // javascript library for creating  the charts
 // #############################
 var Chartist = require("chartist");
 
