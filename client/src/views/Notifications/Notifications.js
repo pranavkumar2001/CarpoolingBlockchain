@@ -89,66 +89,8 @@ export default function Notifications() {
       </CardHeader>
       <CardBody>
         <GridContainer>
-          {/* <GridItem xs={12} sm={12} md={6}>
-            <h5></h5>
-            <br />
-            <SnackbarContent message={""} />
-            <SnackbarContent
-              message={""}
-              close
-            />
-            <SnackbarContent
-              message={""}
-              close
-              icon={AddAlert}
-            />
-            <SnackbarContent
-              message={
-                ""
-              }
-              close
-              icon={AddAlert}
-            />
-          </GridItem> */}
-          {/* <GridItem xs={12} sm={12} md={6}>
-            <h5>Notifications States</h5>
-            <br />
-            <SnackbarContent
-              message={
-                ''
-              }
-              close
-              color="info"
-            />
-            <SnackbarContent
-              message={
-                  ""
-              }
-              close
-              color="success"
-            />
-            <SnackbarContent
-              message={
-                ''
-              }
-              close
-              color="warning"
-            />
-            <SnackbarContent
-              message={
-                ''
-              }
-              close
-              color="danger"
-            />
-            <SnackbarContent
-              message={
-                ''
-              }
-              close
-              color="primary"
-            />
-          </GridItem> */}
+          {}
+          {}
         </GridContainer>
         <br />
         <br />
@@ -165,13 +107,7 @@ export default function Notifications() {
           <GridItem xs={12} sm={12} md={10} lg={8}>
             <GridContainer>
               <GridItem xs={12} sm={12} md={4}>
-                {/* <Button
-                  fullWidth
-                  color="primary"
-                  onClick={() => showNotification("tl")}
-                >
-                  Top Left
-                </Button> */}
+                {}
                 <Snackbar
                   place="tl"
                   color="info"
@@ -183,13 +119,7 @@ export default function Notifications() {
                 />
               </GridItem>
               <GridItem xs={12} sm={12} md={4}>
-                {/* <Button
-                  fullWidth
-                  color="primary"
-                  onClick={() => showNotification("tc")}
-                >
-                  Top Center
-                </Button> */}
+                {}
                 <Snackbar
                   place="tc"
                   color="info"
@@ -200,13 +130,7 @@ export default function Notifications() {
                 />
               </GridItem>
               <GridItem xs={12} sm={12} md={4}>
-                {/* <Button
-                  fullWidth
-                  color="primary"
-                  onClick={() => showNotification("tr")}
-                >
-                  Top Right
-                </Button> */}
+                {}
                 <Snackbar
                   place="tr"
                   color="info"
@@ -224,13 +148,7 @@ export default function Notifications() {
           <GridItem xs={12} sm={12} md={10} lg={8}>
             <GridContainer>
               <GridItem xs={12} sm={12} md={4}>
-                {/* <Button
-                  fullWidth
-                  color="primary"
-                  onClick={() => showNotification("bl")}
-                >
-                  Bottom Left
-                </Button> */}
+                {}
                 <Snackbar
                   place="bl"
                   color="info"
@@ -242,13 +160,7 @@ export default function Notifications() {
                 />
               </GridItem>
               <GridItem xs={12} sm={12} md={4}>
-                {/* <Button
-                  fullWidth
-                  color="primary"
-                  onClick={() => showNotification("bc")}
-                >
-                  Bottom Center
-                </Button> */}
+                {}
                 <Snackbar
                   place="bc"
                   color="info"
@@ -260,13 +172,7 @@ export default function Notifications() {
                 />
               </GridItem>
               <GridItem xs={12} sm={12} md={4}>
-                {/* <Button
-                  fullWidth
-                  color="primary"
-                  onClick={() => showNotification("br")}
-                >
-                  Bottom Right
-                </Button> */}
+                {}
                 <Snackbar
                   place="br"
                   color="info"
